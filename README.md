@@ -19,11 +19,15 @@ I'm Klaudia. I bring together expertise in web development, quality assurance (Q
 - <img src='https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png' alt='WordPress' height='17'> WordPress
 - <img src='https://www.svgrepo.com/show/354202/postman-icon.svg' alt='postman' height='17'> Postman
 - <img src='https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png' alt='docker' height='17'> Docker
-- 🔍 DevTools
+- 🛠️ DevTools
 - <img src='https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013–2019%29.png' alt='MS Office' height='17'> MS Office (Word, Excel, PowerPoint, Access)
 - <img src='https://w7.pngwing.com/pngs/344/344/png-transparent-google-logo-google-logo-g-suite-google-text-logo-symbol-thumbnail.png' alt='Google Workspace' height='17'> Google Workspace (Docs, Sheets, Forms)
 
 ...and more
+
+---
+
+✨ Visit me on <a href="https://linkedin.com/in/klaudiacreativestuff"><img src='https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png' alt='LinkedIn' height='17'></a> ✨
 
 <!---
 
