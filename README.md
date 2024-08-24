@@ -9,7 +9,7 @@ I'm Klaudia. I bring together expertise in web development, quality assurance (Q
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="17"/> CSS, <img src="https://seeklogo.com/images/S/sass-logo-EFE1469B2C-seeklogo.com.png" alt="SASS, SCSS" height="17"/> SASS, SCSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="17"/> JavaScript
 
-### 🛠   Tools:
+### Tools:
 - <img src='https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png' alt='VCSode' height='17'> Visual Studio Code,  <img src='https://seeklogo.com/images/D/dreamweaver-cs6-logo-E75CAF69F3-seeklogo.com.png' alt='DreamWeaver' height='17'> Adobe Dreamweaver,  <img src='https://seeklogo.com/images/N/notepad-windows-3-logo-DA7CA099BC-seeklogo.com.png' alt='Notepad' height='17'> Notepad
 - <img src='https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png' alt='Android Studio' height='17'> Android Studio, <img src='https://www.genymotion.com/wp-content/uploads/2023/11/icon-logo-desktop.png' alt='Genymotion' height='17'> Genymotion
 - <img src='https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png' alt='Jira' height='17'> Jira, <img src='https://pbs.twimg.com/profile_images/1639395011866361857/Cd6Ji_08_400x400.jpg' alt='testrail' height='17'> TestRail
