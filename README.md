@@ -25,7 +25,7 @@ I'm Klaudia. I bring together expertise in web development, quality assurance (Q
 
 ---
 
-✨ Visit me on <a href="https://linkedin.com/in/klaudiacreativestuff"><img src='https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png' alt='LinkedIn' height='17'></a> ✨
+✨ Visit me on <a href="https://linkedin.com/in/klaudiacreativestuff">LinkedIn</a> ✨
 
 <!---
 
