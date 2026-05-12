@@ -36,7 +36,7 @@ I'm Klaudia. I like to build stuff.
   </a>
   <br><br>
   <h3>DreamAlly.app</h3>
-  <p><em>AI-powered dream journal & insights platform</em></p>
+  <p><em>AI-powered personal dream journal & dream interpretations platform</em></p>
   • Calendar view<br>
   • Community toplist<br>
   • AI dream interpretations
