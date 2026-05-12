@@ -10,34 +10,48 @@ I'm Klaudia. I like to build stuff.
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://dreamally.app">
-        <img src="https://raw.githubusercontent.com/Klodizaur/Klodizaur/main/assets/dreamallyapp_logo.png" width="240" alt="DreamAlly"/>
-      </a>
-      <br><br>
-      <h3>DreamAlly</h3>
-      <p><em>AI-powered dream journal & insights platform</em></p>
-      <a href="https://dreamally.app">→ Visit dreamally.app</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Klodizaur/MyFitnessPlan">
-        <img src="https://raw.githubusercontent.com/Klodizaur/MyFitnessPlan/refs/heads/main/client/public/logo.png" width="240" alt="MyFitnessPlan"/>
-      </a>
-      <br><br>
-      <h3>MyFitnessPlan</h3>
-      <p><em>Open-source self-hosted fitness & workout planner</em></p>
-      <a href="https://github.com/Klodizaur/MyFitnessPlan">→ View on GitHub</a>
-    </td>
+  <td width="50%" align="center" valign="top">
+  
+  <a href="https://github.com/Klodizaur/MyFitnessPlan" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Klodizaur/MyFitnessPlan/refs/heads/main/client/public/logo.png" width="150" alt="MyFitnessPlan"/>
+  </a>
+  <br><br>
+  <h3>MyFitnessPlan</h3>
+  <p><em>Open-source self-hosted home fitness & video workout planner</em></p>
+  • Custom workout patterns<br>
+  • Built-in comfy video player<br>
+  • Import your own workout plans + local video library
+  <br><br>
+  and more!
+  <br><br>
+  <a href="https://github.com/Klodizaur/MyFitnessPlan" target="_blank" rel="noopener noreferrer">→ View on GitHub</a>
+  <br><br>
+  
+  </td>
+
+   <td width="50%" align="center" valign="top">
+  
+  <a href="https://dreamally.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Klodizaur/Klodizaur/main/assets/dreamallyapp_logo.png" width="148" alt="DreamAlly"/>
+  </a>
+  <br><br>
+  <h3>DreamAlly.app</h3>
+  <p><em>AI-powered dream journal & insights platform</em></p>
+  • Calendar view<br>
+  • Community toplist<br>
+  • AI dream interpretations
+  <br><br>
+  and more!
+  <br><br>
+  <a href="https://dreamally.app" target="_blank" rel="noopener noreferrer">→ Visit dreamally.app</a>
+  
+  </td>
   </tr>
 </table>
 
 </div>
 
 ---
-
-### 🛠️ Skills
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php,supabase,wordpress,vscode,figma,ps,ai,ae,git,docker,postgres&perline=10&theme=dark" alt="Skills" />
 
 ### 🛠️ Skills & Tools
 
@@ -65,10 +79,10 @@ I'm Klaudia. I like to build stuff.
 **Tools & Others**  
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![WordPress](https://skillicons.dev/icons?i=wordpress) 
-![Git](https://skillicons.dev/icons?i=git) 
+![Git](https://skillicons.dev/icons?i=github) 
 ![Docker](https://skillicons.dev/icons?i=docker)
 
-### 🤖 AI Tools I Use
+### 🤖 AI Tools
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
@@ -79,26 +93,3 @@ I'm Klaudia. I like to build stuff.
 
 ✨ Visit me on <a href="https://linkedin.com/in/klaudiacreativestuff">LinkedIn</a> ✨
 
-<!---
-
-Check out my web dev portfolio at [atomicweb.design](https://atomicweb.design).
-
-### ✨ Highlights:
-
-**► Physiotherapy Start-up (UK):**
-- Established their online presence
-- Achieved 90% bookings via website
-
-**► Caribbean Restaurant (USA):**
-- 9x increase in foot traffic and customer orders during the pandemic
-- Enhanced brand visibility with a delivering a redesigned website and targeted SM content
-
-**► Volunteer Experience at CodeYourFuture:**
-- Mentored students in web development, providing guidance and constructive feedback.
-- Coordinated a small team of volunteers, enhancing engagement by 8x.
-- Assisted with administrative tasks, improving operational efficiency.
-
-### Achievements:
-- **3rd Place** in "Web Design" at WorldSkills UK 2020, organized by UWS (represented City of Glasgow College)
-- Among the **Top 8** in the UK for "IT Software Solutions for Business" at WorldSkills LIVE 2019, Birmingham (represented New College Lanarkshire)
----!>
