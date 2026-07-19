@@ -20,7 +20,8 @@ I'm Klaudia. I like to build stuff.
   <p><em>Open-source self-hosted home fitness & video workout planner</em></p>
   • Custom workout patterns<br>
   • Built-in comfy video player<br>
-  • Import your own workout plans + local video library
+  • Import your local video library<br>
+  • Import or build your own workout plans
   <br><br>
   and more!
   <br><br>
